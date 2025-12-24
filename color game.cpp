@@ -6,7 +6,7 @@ int main(){
 	string guess;
 	
     cout << "Guess the Color: " << endl;
-    
+    cout << "Mechanics: First letter should be capitalized. " << endl;
     for(int x = 0; x < 5; x++){
     	
     	cout << "Heart: " << 5 - x << endl;
@@ -25,3 +25,4 @@ int main(){
 	}
 	return 0;
 }
+
