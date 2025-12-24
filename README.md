@@ -1,2 +1,17 @@
-# guess-the-color-game-cpp
-A simple C++ console game where the player guesses the correct color within limited attempts.
+# Guess the Color Game (C++)
+
+A simple C++ console game where the player tries to guess the correct color within a limited number of attempts.
+
+## How It Works
+- The player has 5 attempts (hearts)
+- The program checks if the guessed color matches the correct answer
+- The game ends when the correct color is guessed or attempts run out
+
+## Concepts Used
+- Variables and strings
+- Loops
+- Conditional statements
+- Input and output
+
+## Purpose
+Beginner C++ practice project.
