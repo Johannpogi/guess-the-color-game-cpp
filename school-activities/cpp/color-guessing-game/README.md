@@ -23,5 +23,6 @@ A simple C++ console game where the player tries to guess the correct color with
 - Conditional statements
 - Input and output
 
-## Purpose
-Beginner C++ practice project.
+## What I have learned (Beginner C++ practice project.)
+- Performing Character out (cout/ouput) and Character in(cin/cout)
+- Using basic conditional statement (If, Else)
