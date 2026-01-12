@@ -8,6 +8,7 @@ int main () {
 	while (row <= height) {
 		row++;
 		int column = 1; // Column counter for printing '*'
+		
 		while (column < row) {
 	    	column++;
 			cout << "*";
