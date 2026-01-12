@@ -2,14 +2,14 @@
 using namespace std;
 
 int main () {
-	int x = 5;
-	int a = 1;
+	int height = 5;
+	int row = 1;
 	
-	while (a <= x) {
-		a++;
-		int b = 1;
-		while (b < a) {
-	    	b++;
+	while (row <= height) {
+		row++;
+		int column = 1; // Column counter for printing '*'
+		while (column < row) {
+	    	column++;
 			cout << "*";
 			}
 		cout << "" << endl;
