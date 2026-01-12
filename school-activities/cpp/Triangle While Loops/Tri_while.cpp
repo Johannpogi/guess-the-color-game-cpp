@@ -6,13 +6,13 @@ int main () {
 	int a = 1;
 	
 	while (a <= x) {
-	a++;
-	int b = 1;
-	while (b < a) {
-	b++;
-		cout << "*";
-	}
-	cout << "" << endl;
+		a++;
+		int b = 1;
+		while (b < a) {
+	    	b++;
+			cout << "*";
+			}
+		cout << "" << endl;
 	}
 	return 0;
 }
